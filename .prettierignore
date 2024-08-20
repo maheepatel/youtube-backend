@@ -1,0 +1,11 @@
+# File names in which we don't want prettier to be implemented
+
+
+
+/.vscode
+/node_modules
+
+
+*.env
+.env
+.env.*
